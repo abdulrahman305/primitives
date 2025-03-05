@@ -87,7 +87,7 @@
     "lint-staged": "^10.5.3",
     "parcel": "2.4.1",
     "prettier": "^2.0.5",
-    "pretty-quick": "^2.0.1",
+    "pretty-quick": "^4.1.0",
     "react-test-renderer": "^18.0.0",
     "replace-in-files": "^3.0.0",
     "start-server-and-test": "^1.12.5",
