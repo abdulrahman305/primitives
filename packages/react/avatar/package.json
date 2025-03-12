@@ -30,7 +30,7 @@
   "dependencies": {
     "@babel/runtime": "^7.13.10",
     "@radix-ui/react-context": "workspace:*",
-    "@radix-ui/react-primitive": "workspace:*",
+    "@radix-ui/react-primitive": "0.0.1",
     "@radix-ui/react-use-callback-ref": "workspace:*",
     "@radix-ui/react-use-layout-effect": "workspace:*"
   },
