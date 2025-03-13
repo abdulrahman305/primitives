@@ -34,7 +34,7 @@
     "@radix-ui/react-context": "workspace:*",
     "@radix-ui/react-id": "workspace:*",
     "@radix-ui/react-presence": "workspace:*",
-    "@radix-ui/react-primitive": "workspace:*",
+    "@radix-ui/react-primitive": "0.0.1",
     "@radix-ui/react-use-controllable-state": "workspace:*",
     "@radix-ui/react-use-layout-effect": "workspace:*"
   },
